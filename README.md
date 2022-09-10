@@ -1,4 +1,4 @@
-# Capstone Project - Spotify Music Recommender - Kyle Ness
+# Spotify Music Recommender - Kyle Ness
 
 Imagine you are an avid music listener, but having already explored so many genres and artists, you have no idea where to look next for hot new tracks. In other words, you are facing a plight of overabundance. Do you look deeper into genres you're already accustomed to? Or do you try to find your way by artists? No matter the route taken, finding enjoyable new music is much a task. If only there existed an easy way to search for new songs based on the characteristics of the tracks you already love.
 
